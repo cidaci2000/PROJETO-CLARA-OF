@@ -16,3 +16,8 @@ background-attachment: fixed;
 background-size: cover;
 background-blend-mode: luminosity;
 }
+.cabecalho{
+    font-size: 20px;  
+    text-align: center;
+    
+}
