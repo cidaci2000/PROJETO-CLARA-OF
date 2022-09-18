@@ -20,9 +20,14 @@ background: rgba(223, 85, 5, 0.89);
 .cabecalho{
     font-size: 20px;  
     text-align: center;
-    
+       
 }
-
+.item-botao{
+    font-size: 32px;
+    box-shadow: 0 0 10px rgba(199, 45, 6, 0.397);
+    border-radius: 10px;
+    padding: 5px;
+}
 
 .principal{
     gap: 20px;
@@ -37,16 +42,18 @@ background: rgba(223, 85, 5, 0.89);
     padding: 10px;
 }
 #image{
-    width: 200px;
-    box-shadow: 0 0 10px rgba(245, 196, 124, 0.397);
+    width: 150px;
+    height: 150px;
+    box-shadow: 0 0 20px rgba(5, 5, 7, 0.397);
     border-radius: 10px;
 
 }
 .linha{
     font-size: 20px;
     color: black;
-    box-shadow: 0 0 10px rgba(233, 142, 39, 0.397);
+    box-shadow: 0 0 10px rgba(7, 2, 71, 0.397);
     border-radius: 10px;
-    padding: 10px;
+    padding: 50px;
+    text-align: center;
 
 }
